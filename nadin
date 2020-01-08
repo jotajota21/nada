@@ -93,7 +93,7 @@ http://psrv.io:80/cris123/cris123/18782
 #EXTINF:-1,Disney HD
 http://psrv.io:80/cris123/cris123/18685
 
-EXTINF:-1,Disney Junior FHD
+#EXTINF:-1,Disney Junior FHD
 http://psrv.io:80/cris123/cris123/18788
 
 #EXTINF:-1,Disney Junior HD
